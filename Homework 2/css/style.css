@@ -1,0 +1,78 @@
+body{
+	background: #f2f7f3;
+  padding: 15 px;
+} 
+.wrapper{
+  margin: 0 auto;
+}  
+      
+ .FIO{ 
+  font-size: 26px;
+    color: black; 
+    font-family: 'Arial';
+        font-weight: bold;
+      margin-left: 270px;/* Отступ слева */
+    text-transform: uppercase; /* Заглавные буквы */
+        margin-top: 30px; /* Отступ сверху */
+} 
+  .picture{
+          margin-left: 550px;
+                   padding-bottom: 20px;
+           }        
+  .bio{
+    font-size: 14px;
+    color: black; 
+    font-family: 'Arial';
+        font-weight: regular;
+      line-height: 20px;
+       margin-left: 270px; 
+       padding-bottom: 20px;
+   }
+   h2{
+  font-size: 18px;
+  color: black; 
+      font-family: Myrial Pro;
+        font-weight: bold;
+    margin-left: 270px;
+   }
+   .phone{ 
+    font-size: 14px;
+  color: black;
+  font-family: 'Myrial Pro';
+  font-weight: regular;
+       margin-left: 270px;
+     margin-left: 305px;
+   }
+       hr{
+     margin-left: 270px;
+     margin-right: 260px;
+    background-color: gray; /* Цвет линии */
+       height: 1px; /* Толщина линии */
+       width: 490 px;
+        border-bottom: 1 px solid;
+   }
+
+     a {
+     font-size: 14px;
+      color: blue; 
+   font-family: 'Myrial Pro';
+        font-weight: regular;
+          margin-left: 305px;
+           padding-bottom: 15px;
+   }
+   li {
+    font-size: 14px;
+    color: black;
+    font-family: Arial;
+     font-weight: regular;
+     margin-left: 288px;
+     line-height: 20px;
+    }
+ .text-feedback{ 
+    font-size: 14px;
+  color: black;
+  font-family: 'Arial';
+  font-weight: regular;
+       margin-left: 270px;
+     margin-left: 305px;
+   }
